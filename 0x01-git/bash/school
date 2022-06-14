@@ -1,6 +1,5 @@
- HEAD
+HEAD
 echo "The school is open!"
-
 #!/bin/bash
 eho "The school is open!" 
 update_script
